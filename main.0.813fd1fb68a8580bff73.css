@@ -1,0 +1,1 @@
+html{box-sizing:border-box}*,:after,:before{box-sizing:inherit}body{font-family:Roboto}.switch{margin-left:40%;margin-top:10%}button{outline:0;padding:10px;border-radius:50px;font-size:50px;background-color:#8a2be2}.active,button{border:1px solid #000}.active{background-color:#fff}
